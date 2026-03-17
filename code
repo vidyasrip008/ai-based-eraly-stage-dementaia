@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NeuroDetect — AI Early-Stage Dementia Detection</title>
+    <meta name="description" content="AI-powered cognitive screening tool for early detection of dementia. Quick, private, and clinically informed.">
+    <meta name="author" content="NeuroDetect" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="NeuroDetect — AI Early-Stage Dementia Detection">
+    <meta property="og:description" content="AI-powered cognitive screening tool for early detection of dementia. Quick, private, and clinically informed.">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
